@@ -10,6 +10,15 @@
   - Theres gonna be some code and stuff, ignore it the default is fine. Press the green button that says "Start Commit" <br>
   - Ensure that "Commit directly to the main branch" is selected, and press Commit new file. <br>
 - Navigate in your forked repository to "index.html", and look for lines that begin in <!-- and end in -->. these are comments, and they will tell you how to edit stuff and give clarifications.
+- To change background images, go to style.css and wherever you see
+```
+#slideX:before {
+  background-image: url("https://picsum.photos/1920/1080");
+  transform: translateZ(-1px) scale(2);
+}
+```
+replace that url with the link to your image. The :before is only there on some, it doesn't matter if its there or not for changing the background
+
 - every time you commit to your repository (save) it will automatically update your pages site which can be accessed at <your account name>.github.io/<repository name>
   
 ### I'll probably make a generator sometime but for now just use this idk
