@@ -22,3 +22,7 @@ replace that url with the link to your image. The :before is only there on some,
 - every time you commit to your repository (save) it will automatically update your pages site which can be accessed at <your account name>.github.io/<repository name>
   
 ### I'll probably make a generator sometime but for now just use this idk
+  ### more info:
+  - to change slides you can either scroll, use left/right arrows, or pageUp/pageDown keys.
+  - This is also compatible with KDE Connect, so you can use your phone as a clicker just like with google slides
+  - Press F to fullscreen
