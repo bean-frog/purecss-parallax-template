@@ -1,4 +1,4 @@
-# Pure CSS Parallax Template
+# Pure CSS Parallax Slideshow Template
 ### Getting started:
 - Make a Github account if you don't have one already. <br>
 - Fork this repository<br>
