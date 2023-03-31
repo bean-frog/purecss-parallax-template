@@ -14,7 +14,7 @@
 ```
 #slideX:before {
   background-image: url("https://picsum.photos/1920/1080");
-  transform: translateZ(-1px) scale(2);
+  and then some other stuff here
 }
 ```
 replace that url with the link to your image. The :before is only there on some, it doesn't matter if its there or not for changing the background
