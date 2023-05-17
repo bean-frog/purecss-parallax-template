@@ -19,7 +19,7 @@
 ```
 replace that url with the link to your image. The :before is only there on some, it doesn't matter if its there or not for changing the background
 
-- every time you commit to your repository (save) it will automatically update your pages site which can be accessed at <your account name>.github.io/<repository name>
+- every time you commit to your repository (save) it will automatically update your pages site which can be accessed at your-account-name.github.io/repository-name
   
 ### I'll probably make a generator sometime but for now just use this idk
   ### more info:
