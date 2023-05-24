@@ -24,5 +24,5 @@ replace that url with the link to your image. The :before is only there on some,
 ### I'll probably make a generator sometime but for now just use this idk
   ### more info:
   - to change slides you can either scroll, use left/right arrows, or pageUp/pageDown keys.
-  - This is also compatible with KDE Connect, so you can use your phone as a clicker just like with google slides
+  - Compatibility with KDE Connect has been added
   - Press F to fullscreen
