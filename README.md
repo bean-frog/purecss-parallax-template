@@ -9,7 +9,7 @@
   - Just below there should be an option that says Jekyll, with a button that says "Configure". Press that. <br>
   - Theres gonna be some code and stuff, ignore it the default is fine. Press the green button that says "Start Commit" <br>
   - Ensure that "Commit directly to the main branch" is selected, and press Commit new file. <br>
-- Navigate in your forked repository to "index.html", and look for lines that begin in <!-- and end in -->. these are comments, and they will tell you how to edit stuff and give clarifications.
+- Navigate in your forked repository to "index.html", and look for lines that begin in `<!--` and end in `-->`. these are comments, and they will tell you how to edit stuff and give clarifications.
 - To change background images, go to style.css and wherever you see
 ```
 #slideX:before {
